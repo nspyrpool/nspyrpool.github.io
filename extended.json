@@ -1,0 +1,45 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://nspyrpool.github.io/logo64x64.jpg",
+        "url_png_logo": "https://nspyrpool.github.io/logo400x400.jpg",
+        "location": "USA",
+        "social": {
+            "twitter_handle": "NSPYRPOOL",
+            "telegram_handle": "",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "NSPYR Pool",
+            "addr": "",
+            "city": "",
+            "country": "",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "Reliably and securely deploying NSPYR pool to Droplets in DigitalOcean VPS.  Optimized for performance, security, and MAX blocks. http://nspyrpool.com",
+            "server": "",
+            "company": "https://nsyprpool.com"
+        }
+    },
+    "my-pool-ids": {
+        "0": "45faad3e1ab98f4a06a54e3d1a3bc70bed80d6e437ce8f9361a5a9be"
+    },
+    "when-satured-then-recommend": {
+    },
+    "telegram-admin-handle": {
+    },
+    "adapools_ext": {
+        "prometheus": {
+            "0": {
+                "name": "",
+                "type": "",
+                "key": ""
+            }
+        }
+    }
+}
