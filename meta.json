@@ -1,6 +1,7 @@
-  {
+{
   "name": "NSPYR POOL",
   "description": "NSPYR Pool",
   "ticker": "NSPYR",
-  "homepage": "https://nspyrpool.com"
-  }
+  "homepage": "https://nspyrpool.com",
+  "extended": "https://nspyrpool.github.io/extended.json"
+}
